@@ -1,0 +1,28 @@
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\bin\Debug\kids_learning_game.exe.config
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\bin\Debug\kids_learning_game.exe
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\bin\Debug\kids_learning_game.pdb
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.csproj.AssemblyReference.cache
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.csproj.SuggestedBindingRedirects.cache
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.Properties.Resources.resources
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.csproj.GenerateResource.cache
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.csproj.CoreCompileInputs.cache
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.exe
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.pdb
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.Form2.resources
+C:\Users\khushismac\source\Workspaces\Workspace\kids_learning_game\kids_learning_game\obj\Debug\kids_learning_game.Kids_Game.resources
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\bin\Debug\kids_learning_game.exe.config
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\bin\Debug\kids_learning_game.exe
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\bin\Debug\kids_learning_game.pdb
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.csproj.AssemblyReference.cache
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.csproj.SuggestedBindingRedirects.cache
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.Kids_Game.resources
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.Form2.resources
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.Properties.Resources.resources
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.csproj.GenerateResource.cache
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.csproj.CoreCompileInputs.cache
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.exe
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.pdb
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\bin\Debug\Guna.Charts.WinForms.dll
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.csproj.CopyComplete
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.Form3.resources
+Y:\My codes\kids_learning_game_dotnet\kids_learning_game\obj\Debug\kids_learning_game.Form4.resources
